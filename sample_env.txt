@@ -1,0 +1,5 @@
+USER_AGENT='Enter navigator.userAgent in a brower console to get headers'
+TWILIO_SID='View Twilio Dashboard'
+TWILIO_AUTHCODE='View Twilio Dashboard'
+TWILIO_MESSAGING_SERVICES_SID='View Twilio Dashboard'
+PHONE_NUMBER='Make sure phone number is verified in Twilio'
