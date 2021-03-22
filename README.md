@@ -5,7 +5,7 @@ This Python script looks at the Best Buy website for an item. If that item is in
 
 ## Instructions
 1. Fill in environment variables in `sample_env.txt` and rename that file to `.env`
-2. Insert links of all the items from Best BUy that you want the script to look at in `main.py:32`
+2. Insert links of all the items from Best Buy that you want the script to look at in `main.py:32`
 3. In project directory install required packages: `pip3 install -r requirements.txt`
 4. Run main.py
 
