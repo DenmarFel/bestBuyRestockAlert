@@ -17,3 +17,5 @@ After 8 days of running the script, I was personally able to get an Gigabyte RTX
 
 Results may vary, but this script personally notified me about 10 minutes before StockDrop did. StockDrop is a discord server with about 130000+ members that assists in alerting members of availability for CPUs, GPUs, and consoles. 
 Although my script did beat StockDrop when it came to buying my GPU, I still recommend joining the server so that you can get alerts from other vendors (Newegg, B&H, Amazon, Walmart, etc.) when they drop.
+
+12/27/2021 Update: I used this bot to also help my girlfriend purchase a Dyson Airwrap for Christmas.
