@@ -30,12 +30,12 @@ myPhoneNumber = os.getenv('PHONE_NUMBER')
 
 stores = {
   "www.bestbuy.com" : [
-    'https://www.bestbuy.com/site/dyson-airwrap-complete-styler-for-multiple-hair-types-and-styles-fuchsia-nickel/6284230.p?skuId=6284230',
-    'https://www.bestbuy.com/site/new-special-edition-dyson-airwrap-styler-complete-prussian-blue-rich-copper/6478227.p?skuId=6478227'
+    'https://www.bestbuy.com/site/sandisk-128gb-microsdxc-uhs-i-memory-card-for-nintendo-switch/6103002.p?skuId=6103002',
+    'https://www.bestbuy.com/site/sony-playstation-5-console/6426149.p?skuId=6426149'
   ],
-  "www.dyson.com" : [
-    'https://www.dyson.com/hair-care/hair-stylers/airwrap#airwrap-choose-your-color'
-  ]
+  # "www.dyson.com" : [
+  #   'https://www.dyson.com/hair-care/hair-stylers/airwrap#airwrap-choose-your-color'
+  # ]
 }
 
 minutes = 0
